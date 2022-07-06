@@ -1,7 +1,8 @@
 # Navigation Drawer using Jetpack Compose Android Examples
 <br>
-<img src="Screen1.png"/>
+<img src="https://github.com/dilipkaklotar/NavigationDrawerComposeExample/blob/master/screenshots/Screen1.png"/>
 <br><br>
-<img src="Screen2.png"/>
-This repository contains navigation drawer demo developed using Jetpack Compose Android. 
+<img src="https://github.com/dilipkaklotar/NavigationDrawerComposeExample/blob/master/screenshots/Screen2.png"/>
+<br><br>
+This repository contains example of navigation drawer developed using Jetpack Compose Android. 
 <br><br>
